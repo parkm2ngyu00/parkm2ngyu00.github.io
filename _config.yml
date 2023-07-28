@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "박민규"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "좋은 개발자가 되는 것이 목표입니다"
+  avatar           : "/assets/image/myimg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "좋은 개발자가 되자"
   location         : "Republic of Korea"
   email            :
   links:
