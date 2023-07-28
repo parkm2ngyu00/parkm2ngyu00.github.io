@@ -1,1 +1,0 @@
-# parkm2ngyu00.github.io
