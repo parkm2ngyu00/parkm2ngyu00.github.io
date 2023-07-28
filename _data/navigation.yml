@@ -1,6 +1,7 @@
 # main links
 main:
-  - title: "Introduce"
-    url: /about/
-  - title: "Baekjoon"
-    url: /baekjoon/
+- title: "Introduce"
+  url: /about/
+- title: "Category"
+  url: /categories/
+
