@@ -24,7 +24,11 @@ author_profile: true
   ![Scikit Learn](https://img.shields.io/badge/sckikitlearn-green.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Power BI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/tableau-blue.svg?style=for-the-badge&logo=tableau&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/tableau-blue.svg?style=for-the-badge&logo=tableau&logoColor=white)   
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkm2ngyu00&show_icons=true&theme=transparent)   
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkm2ngyu00)](https://solved.ac/parkm2ngyu00/)
 ## 학력
 ***
 - 단국대학교 컴퓨터공학과(2019 ~ )   
