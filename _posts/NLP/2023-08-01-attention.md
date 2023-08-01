@@ -66,11 +66,11 @@ V = Values : 모든 시점의 인코더 셀의 은닉 상태들
 
 어텐션 스코어 함수를 정의해보면 다음과 같다.   
 
-$score(s_{t},\ h_{i}) = s_{t}^Th_{i}$   
+$$score(s_{t},\ h_{i}) = s_{t}^Th_{i}$$   
 
 $s_t$와 인코더의 모든 은닉 상태의 어텐션 스코어의 모음값을 $e^t$라고 정의해보자. 그러면 $e^t$의 수식은 다음과 같다.   
 
-$e^{t}=[s_{t}^Th_{1},...,s_{t}^Th_{N}]$   
+$$e^{t}=[s_{t}^Th_{1},...,s_{t}^Th_{N}]$$   
 
 #### 2) 소프트맥스(softmax) 함수를 통해 어텐션 분포(Attention Distribution)를 구한다.
 
@@ -80,7 +80,7 @@ $e^t$에 소프트맥스 함수를 적용하여, 모든 값을 합하면 1이 �
 
 디코더의 시점 t에서의 어텐션 가중치의 모음값인 어텐션 분포를 $α^t$이라고 할 때, $α^t$을 식으로 정의하면 다음과 같다.   
 
-$α^{t} = softmax(e^{t})$   
+$$α^{t} = softmax(e^{t})$$   
 
 #### 3) 각 인코더의 어텐션 가중치와 은닉 상태를 가중합하여 어텐션 값(Attention Value)을 구한다.   
 <img src="https://github.com/parkm2ngyu00/BigleaderProject/assets/88785472/fd38f5d6-fe40-420b-a661-363b5e320539" height="500" width="600" />   
