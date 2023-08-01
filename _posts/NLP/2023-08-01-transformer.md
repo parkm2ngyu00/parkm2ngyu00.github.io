@@ -1,5 +1,5 @@
 ---
-title: "[NLP] 트랜스포머(Transformer) - 1"
+title: "[NLP] 트랜스포머(Transformer) 기초 개념"
 category: NLP
 tags:
     - NLP
