@@ -123,4 +123,4 @@ seq2seq + 어텐션(attention) 모델에 쓰일 수 있는 다양한 어텐션 �
 위에서 $s_t$는 Query, $h_i$는 Keys, $W_a$와 $W_b$는 학습 가능한 가중치 행렬이다.   
 
 ## 참고 서적
-[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 
+>[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 

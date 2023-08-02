@@ -112,5 +112,9 @@ $pos$는 입력 문장에서의 임베딩 벡터의 위치를 나타내며, $i$�
 트랜스포머의 인코더 구조에 대한 자세한 내용을 담은 포스트가 새로 추가되었다. 관심이 있는 사람들은 아래의 링크로 들어가보길 바란다.
 > [트랜스포머 인코더 '셀프 어텐션' & '멀티 헤드 어텐션'](https://parkm2ngyu00.github.io/nlp/transformer_enc_1/)
 
+## 참고하면 좋은 글
+트랜스포머에 모델의 구조에 대한 자세한 내용을 담은 글을 발견해 공유한다.   
+>[https://nlpinkorean.github.io/illustrated-transformer/](https://nlpinkorean.github.io/illustrated-transformer/)
+
 ## 참고 서적
-[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 
+>[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 

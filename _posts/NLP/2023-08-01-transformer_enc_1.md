@@ -139,4 +139,4 @@ $$Attention(Q, K, V) = softmax({QK^T\over{\sqrt{d_k}}})V$$
 
 
 ## 참고 서적
-[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 
+>[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 
