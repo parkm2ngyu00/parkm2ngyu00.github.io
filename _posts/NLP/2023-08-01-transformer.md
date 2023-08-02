@@ -4,6 +4,7 @@ category: NLP
 tags:
     - NLP
     - Transformer
+    - Attention
 toc: true
 toc_sticky: true
 ---

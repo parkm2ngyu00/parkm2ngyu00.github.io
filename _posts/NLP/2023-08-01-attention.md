@@ -3,7 +3,7 @@ title: "[NLP] 어텐션 메커니즘 (Attention Mechanism)"
 category: NLP
 tags:
     - NLP
-    - attention
+    - Attention
     - RNN
     - LSTM
 toc: true
