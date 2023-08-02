@@ -138,5 +138,8 @@ $$Attention(Q, K, V) = softmax({QK^T\over{\sqrt{d_k}}})V$$
 트랜스포머 모델의 인코더는 멀티 헤드 셀프 어텐션과 피드 포워드 신경망 두 개의 서브층으로 나뉘어져 있는데, 이번 포스팅에선 멀티 헤드 셀프 어텐션에 대해 자세히 알아보았다. 멀티 헤드 어텐션은 결국 셀프 어텐션을 병렬적으로 사용하여 여러 시각에서 볼 수 있도록 하여 성능을 높인다는 것이다. 다음 장에서는 인코더의 나머지 부분인 피드 포워드 신경망과 잔차 연결, 층 정규화에 대해 알아보도록 하겠다.
 
 
+## 참고하면 좋은 글
+>[https://nlpinkorean.github.io/illustrated-transformer/](https://nlpinkorean.github.io/illustrated-transformer/)
+
 ## 참고 서적
 >[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 

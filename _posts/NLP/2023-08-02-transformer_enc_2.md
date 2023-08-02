@@ -92,5 +92,8 @@ $$ln_{i} = γ\hat{x}_{i}+β = LayerNorm(x_{i})$$
 ## 마치며
 이번 포스트에선 인코더의 나머지 서브층인 FFNN서브층과 행렬연산을 더 효과적으로 하기 위한 잔차 연결과 층 정규화에 대해 알아봤다. 다음 포스트에서는 인코더에서 디코더를 연결하는 부분과 디코더에 대해서 알아보도록 하겠다.   
 
+## 참고하면 좋은 글
+>[https://nlpinkorean.github.io/illustrated-transformer/](https://nlpinkorean.github.io/illustrated-transformer/)
+
 ## 참고 서적
 >[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) 
