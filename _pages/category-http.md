@@ -1,5 +1,5 @@
 ---
-title: "Http"
+title: "HTTP"
 layout: archive
 permalink: categories/http
 ---
